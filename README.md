@@ -14,6 +14,12 @@ Stack:
  - Coil for downloading images from internet
  - Testing: mockk, spek, espresso
  
+Used libraries:
+ - retrofit for networking
+ - coil for image loading
+ - koin for DI
+ - junit, spek, mockk, espresso for testing
+ 
 Purpose of the project:
 - Show modern stack
 
