@@ -3,7 +3,6 @@ package com.medvedomg.marvelapp.data
 import com.medvedomg.marvelapp.data.Const.PRIVATE_API_KEY
 
 interface DetailsRepository {
-
     suspend fun getDetails(): ComicsDetailsResponse
 }
 
