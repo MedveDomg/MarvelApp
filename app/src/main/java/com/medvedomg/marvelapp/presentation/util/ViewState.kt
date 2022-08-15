@@ -1,4 +1,4 @@
-package com.medvedomg.yelpapiapp.presentation.util
+package com.medvedomg.marvelapp.presentation.util
 
 sealed class ViewState<out R> {
 

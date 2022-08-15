@@ -1,8 +1,8 @@
 package com.medvedomg.marvelapp.presentation.main
 
 import androidx.lifecycle.ViewModel
-import com.medvedomg.yelpapiapp.presentation.util.SingleLiveEvent
-import com.medvedomg.yelpapiapp.presentation.util.asLiveData
+import com.medvedomg.marvelapp.presentation.util.SingleLiveEvent
+import com.medvedomg.marvelapp.presentation.util.asLiveData
 
 class MainViewModel : ViewModel() {
 

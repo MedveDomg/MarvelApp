@@ -1,4 +1,4 @@
-package com.medvedomg.yelpapiapp.presentation.util
+package com.medvedomg.marvelapp.presentation.util
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
